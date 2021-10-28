@@ -1,0 +1,120 @@
+body{
+    margin-top: -50px;
+}
+
+.header-section{
+    height: 750px;
+}
+.header{
+    background-color: rgb(45, 45, 167);
+    height: 710px;
+}
+
+h3{
+    font-size: 32px;
+}
+
+.link-div{
+    margin-left: 90px;
+    padding-top: 25px;
+    margin-top: 42px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+
+}
+
+.link{
+    text-align: center;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(139, 29, 29);
+    color: white;
+}
+
+.login{
+    margin: 6px;
+    padding: 30px;
+    padding-top: 15px;
+    margin-left: 400px;
+}
+
+.login2{
+    margin-top: -60px;
+}
+
+.icone{
+   padding: 5px;
+   
+}
+.login-btn-style{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    width: 40px;
+    height: 8px;
+    padding: 10px 16px;
+    background-color: rgb(211, 54, 27);
+}
+
+.header-part2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 30px;
+    font-size: 60px;
+    margin-top: -25px;
+}
+
+.header-pic img{
+   width: 530px;
+   margin-left: 70px;
+   padding: 25px;
+}
+.header-line{
+    color: white;
+    margin-top: 25px;
+    width: 600px;
+    height: 400px;
+    padding-left: 40px;
+    margin-left: 40px;
+    margin-right: 70px;
+}
+
+.players{
+    display: flex;
+    flex-direction: row;
+    margin: 40px;
+    margin-bottom: 5px;
+    padding: 50px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    margin-top: 2px;
+    margin-left: 70px;
+}
+
+.player-style{
+    padding: 10px 25px;
+}
+
+.player img{
+    width: 316px;
+}
+
+.pera-color{
+    color: dimgray;
+    font-size: 21px;
+    margin-top: -10px;
+}
+
+.player{
+   width: 350px;
+   height: 490px;
+   margin: 6px;
+   padding: 18px;
+   box-sizing: border-box;
+   box-shadow: 10px 10px 35px;  
+
+}
